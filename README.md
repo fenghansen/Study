@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的GitHub，相见即是有缘
+
+新手，主页这些东西不会用，为了避免忘记我就留着了
 
 You can use the [editor on GitHub](https://github.com/fenghansen/Study/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
