@@ -1,39 +1,30 @@
-## 欢迎来到我的GitHub，相见即是有缘
+## Welcome to my GitHub! These are my learning records.   
+***Thanks for Ma_Cong's suggestion. To prove I have really studied and considered sth about DeepLearning, I will irregularly upload my learning records while reading paper.  
+Actually, I have several learning reports(PPT) for our group meeting last term. If you'd like to have a see, please turn to https://github.com/USTB-ML/weekly to search them.***  
 
-新手，主页这些东西不会用，为了避免忘记我就留着了
 
-You can use the [editor on GitHub](https://github.com/fenghansen/Study/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# GAN related basic work  
+## 1.DCGAN  
+  The First GAN model I recurrented. I have wrote a Chinese blog essay about it. If you have any interests about this experience, please visit https://blog.csdn.net/u011734375/article/details/85283937 to see more details~  
+  
+## 2.WGAN & WGAN-GP  
+  Wait please, I'm organising materials (notes are marked on the paper).  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fenghansen/Study/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Image to Image Translation  
+## 1.pix2pix  
+  Wait please, I'm organising materials (notes are marked on the paper).  
+## 2.SRGAN & ESRGAN  
+  Wait please, I'm organising materials (notes are marked on the paper).  
+  Project: https://github.com/fenghansen/ESRGAN-Keras  
+## 3.SRGAN-for-Doctor
+  My Chinese paper (=p=). This is the first time I write paper, please forgive any foolish in this project.  
+  Project: https://github.com/fenghansen/SRGAN-for-Doctor  
+## 4.Pose Guide Person Image Generation  
+  Wait please, I'm organising materials (notes are marked on the paper). 
+  
+# Other works  
+## 1.some wheels  
+At our group's repositories website: https://github.com/USTB-ML/New_Wheel  
+  
+## 2.CheXNet
+At our group's repositories website: https://github.com/USTB-ML/code_hub/tree/master/chest%20X-ray%20images%20classify  
