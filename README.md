@@ -1,5 +1,6 @@
 # Welcome to my GitHub! These are my learning records.   
-***Thanks for Ma_Cong's suggestion, I will record my project on my home page in the future.  
+***Thanks for Ma_Cong's suggestion, I will record my works on my home page in the future.  
+Records include some of my stupid ideas before, so please don't laugh at me... ORZ  
 To prove I have really studied and considered sth about DeepLearning, I will irregularly upload my learning records while reading paper. The host page will only record the project which is very important or recurred by myself.  
 Actually, I have several learning reports(PPT) for our group meeting last term. If you'd like to have a see, please turn to https://github.com/USTB-ML/weekly to search them.***  
 
