@@ -21,7 +21,7 @@ Actually, I have several learning reports(PPT) for our group meeting last term. 
   Project: https://github.com/fenghansen/SRGAN-for-Doctor  
 ### 4.[Person Image Generation](https://github.com/fenghansen/Study/tree/master/Image_to_Image_Translation/Person_Image_Generation) 
   
-## Other works  
+## [Other works](https://github.com/fenghansen/Study/tree/master/Others)  
 ### 1.[some wheels](https://github.com/USTB-ML/New_Wheel)  
 At our group's repositories website: https://github.com/USTB-ML/New_Wheel  
   
